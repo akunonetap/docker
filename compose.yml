@@ -6,7 +6,7 @@ services:
       VERSION: "11"
       RAM_SIZE: "8G"
       CPU_CORES: "3"
-      DISK_SIZE: "30G"
+      DISK_SIZE: "25G"
     devices:
       - /dev/kvm
       - /dev/net/tun
